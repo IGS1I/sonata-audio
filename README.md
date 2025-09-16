@@ -1,4 +1,5 @@
 # AI Audio Analysis (WIP)
+_AI4ALL Class3-Group1_
 #### Project Description
 Project will showcase an AI model's ability to deconstruct songs, predict their metadata, and then possibly make a genre-based or mood-based playlist for a user to enjoy.
 
